@@ -2,6 +2,7 @@
 Ethics are the moral principles that govern a person's behaviour or the conducting of an activity. It is the branch of knowledge that deals with moral principles.
 
 In this field, we mean:
+
 -Data Privacy including data ownership, usage and consent
 -Identifying Biases (both consciously and unconsciously)
 -Unintended consequences
